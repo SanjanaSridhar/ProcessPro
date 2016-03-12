@@ -1,0 +1,13 @@
+html,body,.col-md-12,.row {
+  height:100%;
+}
+.row > div {
+  height:100%;
+}
+/* to make columns visible */
+.row .col-sm-2 {
+  background-color:#eee;
+}
+.row .col-sm-10 {
+  background-color:#ddd;
+}
